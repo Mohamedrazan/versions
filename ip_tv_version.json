@@ -2,10 +2,8 @@
   "version": "1.0.10",
   "note": "Veladance day update",
   "new": [
-    "UI Improvement",
-    "New Channels",
-    "Faster Streaming Performance",
-    "Bug Fixes and Stability Enhancements", 
+    "UI Improvement", 
+    "Faster Streaming Performance", 
     "Better Video Playback Controls",
     "Optimized Server Connectivity",
     "Reduced Buffering Issues"
