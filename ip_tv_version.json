@@ -1,6 +1,7 @@
 {
   "version": "1.0.10",
   "note": "Veladance day update",
+  "link":"https://raai.pythonanywhere.com/download",
   "new": [
     "UI Improvement", 
     "Faster Streaming Performance", 
